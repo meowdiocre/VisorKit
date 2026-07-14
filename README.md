@@ -35,5 +35,6 @@ A hypervisor-level rootkit (or Virtual Machine-Based Rootkit) that leverages har
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢀⣀⡤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢤⣴⣦⣿⣾⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠀⠈⠉⠉⠉⠉⠭⠿⣿⣿⣿⠿⠿⠿⠿⠛⠛⠛⠋⠉⠉⠉⠉⠁
+```
 
-```⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+This project remains private. If you would like to contribute or get in touch, please DM me on Discord: @meowdiocre
